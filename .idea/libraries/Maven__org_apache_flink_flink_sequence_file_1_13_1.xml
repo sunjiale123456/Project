@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-sequence-file:1.13.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.2/m2/repository/org/apache/flink/flink-sequence-file/1.13.1/flink-sequence-file-1.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.2/m2/repository/org/apache/flink/flink-sequence-file/1.13.1/flink-sequence-file-1.13.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.6.2/m2/repository/org/apache/flink/flink-sequence-file/1.13.1/flink-sequence-file-1.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

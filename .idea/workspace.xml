@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88fd0d48-e0d8-4472-99e2-b84c5a578210" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atuigu/doris/flink/DataStreamJsonSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atuigu/doris/flink/DataStreamRowDataSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atuigu/doris/flink/DataStreamSourceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atuigu/doris/flink/SQLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kafkaToDoris/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SchemaUDF/MyDeserializationSchema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atuigu/doris/flink/DataStreamJsonSinkDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atuigu/doris/flink/DataStreamRowDataSinkDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atuigu/doris/flink/DataStreamRowDataSinkDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atuigu/doris/flink/SQLDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/kafkaToDoris/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="bd590084-0a03-4100-a8fa-975c5ad75251" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Idea\apache-maven-3.6.2\m2\repository" />
+        <option name="mavenHome" value="F:\Java\apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\Idea\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2K0Ug6vU0NNEHthRIIX3rcDIxa4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mysqlTokafka" />
+      <recent name="SchemaUDF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="DataStreamSourceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.atuigu.doris.flink.DataStreamSourceDemo" />
+      <module name="flink-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atuigu.doris.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.atuigu.doris.flink.SQLDemo" />
+      <module name="flink-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atuigu.doris.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kafkaToDoris.demo" />
+      <module name="flink-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaToDoris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DataStreamSourceDemo" />
+      <item itemvalue="Application.SQLDemo" />
+      <item itemvalue="Application.demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.DataStreamSourceDemo" />
+        <item itemvalue="Application.SQLDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88fd0d48-e0d8-4472-99e2-b84c5a578210" name="Default Changelist" comment="" />
+      <created>1673111102884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673111102884</updated>
+      <workItem from="1673111103930" duration="276000" />
+      <workItem from="1673111393732" duration="5515000" />
+      <workItem from="1673173410867" duration="1259000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1673173513156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673173513156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="235" key="#Notifications" timestamp="1673174026229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1673174026229" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673155849793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1673155849793" />
+    <state x="441" y="110" key="FileChooserDialogImpl" timestamp="1673173437906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1673173437906" />
+    <state x="822" y="327" key="Github.ShareDialog" timestamp="1673170775708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="822" y="327" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1673170775708" />
+    <state width="1493" height="333" key="GridCell.Tab.0.bottom" timestamp="1673170932780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673170932780" />
+    <state width="1493" height="333" key="GridCell.Tab.0.center" timestamp="1673170932780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673170932780" />
+    <state width="1493" height="333" key="GridCell.Tab.0.left" timestamp="1673170932780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673170932780" />
+    <state width="1493" height="333" key="GridCell.Tab.0.right" timestamp="1673170932780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673170932780" />
+    <state x="501" y="98" key="SettingsEditor" timestamp="1673170807799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="98" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1673170807799" />
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1673175479464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1673175479464" />
+  </component>
+</project>
